@@ -1,0 +1,4 @@
+└── outputs/
+    ├── figures/
+    ├── tables/
+    └── publications/
