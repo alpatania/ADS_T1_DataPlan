@@ -1,6 +1,3 @@
-# ADS_T1_DataPlan
-Team Assignement for Advanced Data Science Course
-
 # How to Create a Data Management Plan (DMP)
 
 ### Why Do You Need a DMP?
